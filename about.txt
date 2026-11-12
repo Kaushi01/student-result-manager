@@ -1,0 +1,11 @@
+conditional --logic
+loops --menu
+dictionary --store data
+
+Teacher:
+-Add student
+-view all students
+-check result
+-exit
+
+
